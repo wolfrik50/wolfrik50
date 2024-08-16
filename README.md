@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wolfrik50
+- 👋 Hi, I’m Wolfrik
 - 👀 I’m interested in Full Stack Web and Java Development
-- 🌱 I’m currently learning Spring and NextJS
+- 🌱 I’m currently learning JakartaEE,Spring and React,NextJS
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me, I will find you :)
 
